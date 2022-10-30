@@ -1,4 +1,18 @@
-#### [0.2.0] - Aug 26 2020 
+# Changelog
+
+#### [1.0.1] - November 30 2021
+Changed the license to MPL-2.0
+
+## [1.0.0] - April 23 2021
+Migrated to Null Safety
+
+#### [1.0.0-prerelease] - April 8 2021
+Migrated to Null Safety
+
+#### [0.2.1] - Apr 7 2021
+Updated the Example app and fixed minor bug
+
+#### [0.2.0] - Aug 26 2020
 Fixed minor bugs. Updated readme.
 
 #### [0.1.7] - July 17 2020 
